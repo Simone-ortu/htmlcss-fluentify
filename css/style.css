@@ -27,7 +27,7 @@ body{
 }
 /*Header*/
 header{
-  width: 100vw;
+  width: 100%;
   height: 700px;
   background-image: url('../img/background-header.png');
   background-size: 65%;
@@ -143,6 +143,77 @@ a.btn-greenbig {
 }
 .topbar p{
   text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(135, 135, 135);
+}
+/*/Topbar*/
+
+/*MidBox*/
+.midbox{
+  width: 100%;
+  margin-top: 50px;
+}
+.midbox h3{
+  text-align: center;
+  color:#7CBB02
+}
+.midbox img{
+  width: 200px;
+  margin-left: 20px;
+}
+.midbox hr{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.midbox{
+  text-align: center;
+}
+.box-l{
+  width: 30%;
+  margin: 0 20px;
+  padding: 0 30px;
+}
+.box-l h3{
+  padding: 20px;
+}
+.box-l p{
+  padding-top: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(135, 135, 135);
+}
+.box-c{
+  width: 30%;
+  margin: 30px 20px;
+  padding: 0 30px;
+}
+.box-c img{
+  width: 59%;
+}
+.box-c h3{
+  padding: 20px;
+}
+.box-c p{
+  padding-top: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(135, 135, 135);
+}
+.box-r{
+  width: 30%;
+  margin: 0 20px;
+  padding: 0 30px;
+}
+.box-r img{
+  width: 49%;
+}
+.box-r h3{
+  padding: 20px;
+}
+.box-r p{
+  padding-top: 20px;
   font-size: 18px;
   font-weight: 600;
   color: rgb(135, 135, 135);
