@@ -208,9 +208,10 @@ a.btn-greenbig {
 }
 .box-r img{
   width: 49%;
+  padding-right: 30px;
 }
 .box-r h3{
-  padding: 20px;
+  padding: 30px;
 }
 .box-r p{
   padding-top: 20px;
